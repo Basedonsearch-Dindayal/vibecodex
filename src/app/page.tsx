@@ -1,10 +1,11 @@
+const Page = async () => {
 
-const Page = () => {
-  return(
-    <div className="font-bold text-rose-500">
-      Hello wordl!
+
+return (
+    <div>
+      HELLOWORLD
     </div>
   );
-}
+};
 
-export default Page;
+export default Page;  
